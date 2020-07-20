@@ -1,7 +1,7 @@
 # Get_coordinate_text_pdf
 Get %X and %Y coords of text from PDF to import in FIELDWIRE
 
-Permet d'extraire les coordonéees X et Y d'un PDF, en pourcentage.
+Permet d'extraire les coordonéees X et Y de tous les textes d'un PDF, en pourcentage.
 
 
 ### Dépendance du script :
